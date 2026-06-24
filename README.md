@@ -1,5 +1,6 @@
 # Automation Warehouse Digital Twin
 
+<img width="3640" height="1655" alt="image" src="https://github.com/user-attachments/assets/82196dad-8ec8-4ff3-9b14-5acf7ad4a17e" />
 
 > This repository contains warehouse automation scripts only. Dashboard and NVIDIA Omniverse components are not included.
 
